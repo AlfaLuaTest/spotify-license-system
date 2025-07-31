@@ -5,7 +5,7 @@
   "maintenance_mode": true,
   "maintenance_message": "🔧 Spotify Lisans Sistemi bakım aşamasındadır. Lütfen daha sonra tekrar deneyin.\n\n🏪 Mağazamızı ziyaret edin: https://www.itemsatis.com/p/PremiumSt0re",
   "store_url": "https://www.itemsatis.com/p/PremiumSt0re",
-  "support_discord": "https://discord.gg/YOUR_DISCORD_SERVER",
+  "support_discord": "https://www.itemsatis.com/p/PremiumSt0re",
   "features": {
     "basic": {
       "max_playlist_tracks": 100,
