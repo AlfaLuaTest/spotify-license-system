@@ -1,0 +1,16 @@
+{
+  "registered_users": [
+    {
+      "license_key": "PREMIUM-2025-XYZ999",
+      "hwid": "HWID-6A42243C3338EF5579F42829"
+    },
+    {
+      "license_key": "STANDARD-2025-ABC456", 
+      "hwid": "HWID-789ABCDEF01234568901A"
+    },
+    {
+      "license_key": "LIFETIME-2025-LTM123",
+      "hwid": "HWID-456DEF789ABC012345678"
+    }
+  ]
+}

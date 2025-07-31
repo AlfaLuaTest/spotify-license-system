@@ -1,0 +1,30 @@
+{
+  "hwid_bans": [
+    {
+      "hwid": "HWID-BANNED123456789ABCDEF",
+      "reason": "Terms of service violation",
+      "ban_date": "2025-07-15T12:00:00Z",
+      "banned": true
+    },
+    {
+      "hwid": "HWID-6A42243C3338EF5579F42829",
+      "reason": "Violation of terms",
+      "ban_date": "2026-01-20T12:00:00Z",
+      "banned": false
+    }
+  ],
+  "license_bans": [
+    {
+      "license_key": "REVOKED-2025-XXX111",
+      "reason": "Chargeback/Refund request",
+      "ban_date": "2025-07-22T14:30:00Z", 
+      "banned": true
+    },
+    {
+      "license_key": "STANDARD-2025-NEW456",
+      "reason": "Chargeback",
+      "ban_date": "2028-01-22T14:30:00Z", 
+      "banned": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "webhook_url": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+  "api_base_url": "https://raw.githubusercontent.com/USERNAME/spotify-license-system/main/",
+  "version": "3.0.0",
+  "maintenance_mode": false,
+  "maintenance_message": "🔧 Spotify License System is under maintenance. Please try again later.\n\n🏪 Visit our store: https://www.itemsatis.com/p/PremiumSt0re",
+  "store_url": "https://www.itemsatis.com/p/PremiumSt0re",
+  "support_discord": "https://discord.gg/YOUR_DISCORD_SERVER",
+  "features": {
+    "basic": {
+      "max_playlist_tracks": 100,
+      "audio_quality": "192kbps",
+      "download_speed": "normal",
+      "support_level": "community"
+    },
+    "standard": {
+      "max_playlist_tracks": "unlimited",
+      "audio_quality": "320kbps", 
+      "download_speed": "fast",
+      "support_level": "standard"
+    },
+    "premium": {
+      "max_playlist_tracks": "unlimited",
+      "audio_quality": "320kbps",
+      "download_speed": "fastest",
+      "support_level": "premium"
+    },
+    "lifetime": {
+      "max_playlist_tracks": "unlimited",
+      "audio_quality": "320kbps",
+      "download_speed": "fastest",
+      "support_level": "premium",
+      "lifetime_access": true,
+      "priority_updates": true
+    }
+  },
+  "system_info": {
+    "name": "Spotify Premium Downloader",
+    "description": "Professional Spotify music downloader with license system - No free version",
+    "developer": "Premium Store",
+    "website": "https://www.itemsatis.com/p/PremiumSt0re"
+  }
+}

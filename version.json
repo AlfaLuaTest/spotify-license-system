@@ -1,0 +1,67 @@
+{
+  "latest_version": "3.0.0",
+  "download_url": "https://github.com/USERNAME/spotify-license-system/releases/download/v3.0.0/SpotifyDownloader.exe",
+  "force_update": false,
+  "update_message": "🎵 Spotify Premium Downloader v3.0.0\n\n🔥 New Features:\n• Professional license system with 4 tiers\n• Enhanced UI with Rich library\n• Improved download speeds (up to 50% faster)\n• Better FFmpeg integration\n• Advanced progress tracking\n• License-based quality settings\n• Discord webhook notifications\n• Auto-login for registered users\n• Lifetime license support\n\n💎 License Tiers:\n• Basic: 192kbps, 100 tracks limit\n• Standard: 320kbps, unlimited tracks\n• Premium: 320kbps, unlimited, fastest speed\n• Lifetime: 320kbps, unlimited, lifetime access\n\n🏪 Get your license: https://www.itemsatis.com/p/PremiumSt0re",
+  "changelog": [
+    {
+      "version": "3.0.0",
+      "date": "2025-07-31",
+      "changes": [
+        "License-only system - no free version",
+        "Beautiful UI with Rich library",
+        "Four license tiers (Basic/Standard/Premium/Lifetime)",
+        "Auto-login for registered users",
+        "Discord webhook integration",
+        "Enhanced download progress tracking",
+        "Better error handling",
+        "Lifetime license support",
+        "Premium Store integration"
+      ]
+    },
+    {
+      "version": "2.1.0",
+      "date": "2024-12-15", 
+      "changes": [
+        "Improved FFmpeg detection",
+        "Better playlist handling",
+        "Bug fixes and stability improvements"
+      ]
+    }
+  ],
+  "system_requirements": {
+    "python": "3.7+",
+    "required_packages": [
+      "rich>=13.0.0",
+      "spotipy>=2.22.0",
+      "yt-dlp>=2023.1.0",
+      "colorama>=0.4.0",
+      "requests>=2.28.0"
+    ],
+    "optional": [
+      "FFmpeg (for MP3 conversion)"
+    ]
+  },
+  "license_info": {
+    "basic": {
+      "price": "₺25",
+      "duration": "12 months",
+      "features": ["192kbps", "100 tracks limit", "Community support"]
+    },
+    "standard": {
+      "price": "₺50", 
+      "duration": "12 months",
+      "features": ["320kbps", "Unlimited tracks", "Standard support"]
+    },
+    "premium": {
+      "price": "₺75",
+      "duration": "12 months", 
+      "features": ["320kbps", "Unlimited", "Premium support", "Fastest speed"]
+    },
+    "lifetime": {
+      "price": "₺150",
+      "duration": "lifetime",
+      "features": ["320kbps", "Unlimited", "Premium support", "Lifetime access", "Priority updates"]
+    }
+  }
+}

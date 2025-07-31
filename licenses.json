@@ -1,0 +1,67 @@
+{
+  "valid_licenses": [
+    {
+      "key": "PREMIUM-2025-XYZ999",
+      "type": "premium",
+      "created_date": "2024-01-15",
+      "expires_date": "lifetime",
+      "active": true,
+      "max_users": 1,
+      "features": [
+        "320kbps MP3 quality",
+        "Unlimited downloads",
+        "Unlimited tracks per playlist/album",
+        "Fastest download speed",
+        "Premium support",
+        "Lifetime license"
+      ]
+    },
+    {
+      "key": "STANDARD-2025-ABC456",
+      "type": "standard", 
+      "created_date": "2024-01-20",
+      "expires_date": "2026-06-30",
+      "active": true,
+      "max_users": 1,
+      "features": [
+        "320kbps MP3 quality",
+        "Unlimited downloads",
+        "Unlimited tracks per playlist/album",
+        "Standard download speed",
+        "Standard support"
+      ]
+    },
+    {
+      "key": "BASIC-2025-DEF789",
+      "type": "basic",
+      "created_date": "2025-01-01", 
+      "expires_date": "2025-12-31",
+      "active": true,
+      "max_users": 1,
+      "features": [
+        "192kbps MP3 quality",
+        "Limited downloads",
+        "100 tracks per playlist/album",
+        "Basic download speed",
+        "Community support"
+      ]
+    },
+    {
+      "key": "LIFETIME-2025-LTM123",
+      "type": "lifetime",
+      "created_date": "2025-07-31",
+      "expires_date": "lifetime",
+      "active": true,
+      "max_users": 1,
+      "features": [
+        "320kbps MP3 quality",
+        "Unlimited downloads", 
+        "Unlimited tracks per playlist/album",
+        "Fastest download speed",
+        "Premium support",
+        "Lifetime access",
+        "Priority updates"
+      ]
+    }
+  ]
+}
