@@ -1,8 +1,8 @@
 {
   "webhook_url": "https://discord.com/api/webhooks/1400465655236395129/LXBk_Bic5cJuQof6fa8eYe4nbNcCJJGSkanK1E_f_ZUgo4BwHLfH5TUeuqGKv7fc_74Q",
   "api_base_url": "https://raw.githubusercontent.com/USERNAME/spotify-license-system/main/",
-  "version": "3.0.0",
-  "maintenance_mode": true,
+  "version": "4.0.0",
+  "maintenance_mode": false,
   "maintenance_message": "🔧 Spotify Lisans Sistemi bakım aşamasındadır. Lütfen daha sonra tekrar deneyin.\n\n🏪 Mağazamızı ziyaret edin: https://www.itemsatis.com/p/PremiumSt0re",
   "store_url": "https://www.itemsatis.com/p/PremiumSt0re",
   "support_discord": "https://www.itemsatis.com/p/PremiumSt0re",
