@@ -8,12 +8,12 @@
       "active": true,
       "max_users": 1,
       "features": [
-        "320kbps MP3 quality",
-        "Unlimited downloads",
-        "Unlimited tracks per playlist/album",
-        "Fastest download speed",
-        "Premium support",
-        "Lifetime license"
+        "320 kbps MP3 kalitesi",
+        "Sınırsız indirme",
+        "Çalma listesi/albüm başına sınırsız parça",
+        "En yüksek indirme hızı",
+        "Premium destek",
+        "Ömür boyu lisans"
       ]
     },
     {
@@ -24,11 +24,11 @@
       "active": true,
       "max_users": 1,
       "features": [
-        "320kbps MP3 quality",
-        "Unlimited downloads",
-        "Unlimited tracks per playlist/album",
-        "Standard download speed",
-        "Standard support"
+        "320 kbps MP3 kalitesi",
+        "Sınırsız indirme",
+        "Çalma listesi/albüm başına sınırsız parça",
+        "Standart indirme hızı",
+        "Standart destek"
       ]
     },
     {
@@ -39,11 +39,11 @@
       "active": true,
       "max_users": 1,
       "features": [
-        "192kbps MP3 quality",
-        "Limited downloads",
-        "100 tracks per playlist/album",
-        "Basic download speed",
-        "Community support"
+        "192 kbps MP3 kalitesi",
+        "Sınırlı indirme",
+        "Çalma listesi/albüm başına 100 parça",
+        "Temel indirme hızı",
+        "Topluluk desteği"
       ]
     },
     {
@@ -54,13 +54,13 @@
       "active": true,
       "max_users": 1,
       "features": [
-        "320kbps MP3 quality",
-        "Unlimited downloads", 
-        "Unlimited tracks per playlist/album",
-        "Fastest download speed",
-        "Premium support",
-        "Lifetime access",
-        "Priority updates"
+        "320 kbps MP3 kalitesi",
+        "Sınırsız indirme", 
+        "Çalma listesi/albüm başına sınırsız parça",
+        "En yüksek indirme hızı",
+        "Premium destek",
+        "Ömür boyu erişim",
+        "Öncelikli güncellemeler"
       ]
     }
   ]
