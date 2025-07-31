@@ -1,9 +1,9 @@
 {
-  "webhook_url": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+  "webhook_url": "https://discord.com/api/webhooks/1400465655236395129/LXBk_Bic5cJuQof6fa8eYe4nbNcCJJGSkanK1E_f_ZUgo4BwHLfH5TUeuqGKv7fc_74Q",
   "api_base_url": "https://raw.githubusercontent.com/USERNAME/spotify-license-system/main/",
   "version": "3.0.0",
   "maintenance_mode": false,
-  "maintenance_message": "🔧 Spotify License System is under maintenance. Please try again later.\n\n🏪 Visit our store: https://www.itemsatis.com/p/PremiumSt0re",
+  "maintenance_message": "🔧 Spotify Lisans Sistemi bakım aşamasındadır. Lütfen daha sonra tekrar deneyin.\n\n🏪 Mağazamızı ziyaret edin: https://www.itemsatis.com/p/PremiumSt0re",
   "store_url": "https://www.itemsatis.com/p/PremiumSt0re",
   "support_discord": "https://discord.gg/YOUR_DISCORD_SERVER",
   "features": {
@@ -36,7 +36,7 @@
   },
   "system_info": {
     "name": "Spotify Premium Downloader",
-    "description": "Professional Spotify music downloader with license system - No free version",
+    "description": "Lisans sistemine sahip profesyonel Spotify müzik indirici - Ücretsiz sürümü yoktur",
     "developer": "Premium Store",
     "website": "https://www.itemsatis.com/p/PremiumSt0re"
   }
